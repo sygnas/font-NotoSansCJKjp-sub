@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'NotoSansCJKjp';
+    font-style: normal;
+    font-weight: 200;
+    src:
+        url('./NotoSansCJKjp-Light-sub.woff2') format('woff2'),
+        url('./NotoSansCJKjp-Light-sub.woff') format('woff');
+}
+@font-face {
+    font-family: 'NotoSansCJKjp';
+    font-style: normal;
+    font-weight: 400;
+    src:
+        url('./NotoSansCJKjp-Regular-sub.woff2') format('woff2'),
+        url('./NotoSansCJKjp-Regular-sub.woff') format('woff');
+}
+@font-face {
+    font-family: 'NotoSansCJKjp';
+    font-style: normal;
+    font-weight: 700;
+    src:
+        url('./NotoSansCJKjp-Bold-sub.woff2') format('woff2'),
+        url('./NotoSansCJKjp-Bold-sub.woff') format('woff');
+}
