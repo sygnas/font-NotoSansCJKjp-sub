@@ -1,6 +1,14 @@
 @font-face {
     font-family: 'NotoSansCJKjp';
     font-style: normal;
+    font-weight: 100;
+    src:
+        url('./NotoSansCJKjp-Thin-sub.woff2') format('woff2'),
+        url('./NotoSansCJKjp-Thin-sub.woff') format('woff');
+}
+@font-face {
+    font-family: 'NotoSansCJKjp';
+    font-style: normal;
     font-weight: 200;
     src:
         url('./NotoSansCJKjp-Light-sub.woff2') format('woff2'),
